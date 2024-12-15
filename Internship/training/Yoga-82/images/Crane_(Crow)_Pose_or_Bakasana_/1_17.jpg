@@ -1,0 +1,51 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script>document.title='浙江俗靡医疗科技有限公司';</script>
+<title>&#x6B27;&#x7F8E;&#x8001;&#x719F;&#x5987;xB&#x6C34;&#x591A;&#x6BDB;&#x591A;,&#x65E5;&#x97E9;&#x4E2D;&#x6587;&#x5B57;&#x5E55;&#x65E0;&#x7801;&#x4EBA;&#x59BB;&#x4E0D;&#x5361;,&#x4E9A;&#x6D32;&#x6210;av&#x4EBA;&#x7247;&#x5728;&#x6211;&#x89C2;&#x770B;,&#x6B27;&#x7F8E;&#x5728;&#x7EBF;&#x6B27;&#x7F8E;99&#x9999;&#x8549;&#x5728;&#x7EBF;&#x89C6;&#x9891;,&#x56FD;&#x4EA7;&#x7CBE;&#x54C1;&#x514D;&#x8D39;&#x4E00;&#x533A;&#x4E8C;&#x533A;&#x4E09;&#x533A;&#x56DB;&#x533A;,&#x4E2D;&#x6587;&#x4E9A;&#x6D32;av&#x7247;&#x5728;&#x7EBF;&#x89C2;&#x770B;&#x9AD8;&#x6E05;,&#x65E0;&#x7801;&#x56FD;&#x4EA7;&#x7CBE;&#x54C1;&#x4E00;&#x533A;&#x4E8C;&#x533A;av</title>
+<meta name="keywords" content="&#x6B27;&#x7F8E;&#x8001;&#x719F;&#x5987;xB&#x6C34;&#x591A;&#x6BDB;&#x591A;,&#x65E5;&#x97E9;&#x4E2D;&#x6587;&#x5B57;&#x5E55;&#x65E0;&#x7801;&#x4EBA;&#x59BB;&#x4E0D;&#x5361;,&#x4E9A;&#x6D32;&#x6210;av&#x4EBA;&#x7247;&#x5728;&#x6211;&#x89C2;&#x770B;,&#x6B27;&#x7F8E;&#x5728;&#x7EBF;&#x6B27;&#x7F8E;99&#x9999;&#x8549;&#x5728;&#x7EBF;&#x89C6;&#x9891;,&#x56FD;&#x4EA7;&#x7CBE;&#x54C1;&#x514D;&#x8D39;&#x4E00;&#x533A;&#x4E8C;&#x533A;&#x4E09;&#x533A;&#x56DB;&#x533A;,&#x4E2D;&#x6587;&#x4E9A;&#x6D32;av&#x7247;&#x5728;&#x7EBF;&#x89C2;&#x770B;&#x9AD8;&#x6E05;,&#x65E0;&#x7801;&#x56FD;&#x4EA7;&#x7CBE;&#x54C1;&#x4E00;&#x533A;&#x4E8C;&#x533A;av" />
+<meta name="description" content="&#x56FD;&#x4EA7;&#x7CBE;&#x54C1;&#x514D;&#x8D39;&#x4E00;&#x533A;&#x4E8C;&#x533A;&#x4E09;&#x533A;&#x56DB;&#x533A;,&#x4E2D;&#x6587;&#x4E9A;&#x6D32;av&#x7247;&#x5728;&#x7EBF;&#x89C2;&#x770B;&#x9AD8;&#x6E05;,&#x65E0;&#x7801;&#x56FD;&#x4EA7;&#x7CBE;&#x54C1;&#x4E00;&#x533A;&#x4E8C;&#x533A;av,&#x56FD;&#x4EA7;&#x4E9A;&#x6D32;&#x7CBE;&#x4E45;&#x4E45;&#x4E45;&#x4E45;&#x4E45;&#x65E0;&#x7801;&#x5C0F;&#x8BF4;,91&#x5728;&#x7EBF;&#x65E0;&#x7801;&#x9AD8;&#x6F6E;&#x55B7;&#x6C34;&#x89C2;&#x770B;99&#x4E45;,&#x56FD;&#x4EA7;&#x4E00;&#x533A;&#x4E8C;&#x533A;&#x4E09;&#x533A;a&#x7EA7;&#x6BDB;&#x7247;" />
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+<script>
+	(function(){
+		var canonicalURL, curProtocol;
+		//Get the <link> tag
+		var x=document.getElementsByTagName("link");
+		//Find the last canonical URL
+		if(x.length > 0){
+			for (i=0;i<x.length;i++){
+				if(x[i].rel.toLowerCase() == 'canonical' && x[i].href){
+					canonicalURL=x[i].href;
+				}
+			}
+		}
+		//Get protocol
+	    if (!canonicalURL){
+	    	curProtocol = window.location.protocol.split(':')[0];
+	    }
+	    else{
+	    	curProtocol = canonicalURL.split(':')[0];
+	    }
+	    //Get current URL if the canonical URL does not exist
+	    if (!canonicalURL) canonicalURL = window.location.href;
+	    //Assign script content. Replace current URL with the canonical URL
+    	!function(){var e=/([http|https]:\/\/[a-zA-Z0-9\_\.]+\.baidu\.com)/gi,r=canonicalURL,t=document.referrer;if(!e.test(r)){var n=(String(curProtocol).toLowerCase() === 'https')?"https://sp0.baidu.com/9_Q4simg2RQJ8t7jm9iCKT-xh_/s.gif":"//api.share.baidu.com/s.gif";t?(n+="?r="+encodeURIComponent(document.referrer),r&&(n+="&l="+r)):r&&(n+="?l="+r);var i=new Image;i.src=n}}(window);})();
+</script>
+</head>
+<script language="javascript" type="text/javascript" src="/common.js"></script>
+<script language="javascript" type="text/javascript" src="/tj.js"></script>
+</body>
+</html>
